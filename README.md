@@ -42,6 +42,7 @@
 
 | Date | Institute | Paper | 💻 | Publication | Tags |
 | :-----: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: | :---------: |
+| 2026-04-09 | University of British Columbia & Vector Institute & Etude AI | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) | [Code](https://github.com/TIGER-AI-Lab/ClawBench) | Arxiv | web agent, live-web benchmark, benchmark alignment |
 | 2026-02-11 | Huawei Technologies & Institute of Automation, CAS  | [FEATUREBENCH: BENCHMARKING AGENTIC CODING FOR COMPLEX FEATURE DEVELOPMENT](https://arxiv.org/pdf/2602.10975) | [Code](https://github.com/LiberCoders/FeatureBench) | Arxiv | CLI Agent, Benchmark |
 | 2026-02-10 | UC Santa Barbara | [TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents](https://arxiv.org/abs/2602.07274) | [Code](https://github.com/ucsb-mlsec/terminal-bench-env) | Arxiv | terminal agent, environment synthesis |
 | 2025-11-12 | MIT & Meta AI | [SWE-PT: Software Engineering Post-Training for Code Agent Robustness](https://arxiv.org/abs/2511.07629) | [Code](https://github.com/mit-han-lab/SWE-PT) | Arxiv | SWE-bench, code agent, post-training |
